@@ -1,1 +1,1 @@
-# Landing_page_1
+A demo project for a landing page.
