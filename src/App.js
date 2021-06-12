@@ -1,5 +1,5 @@
 import React from 'react'
-import {Redirect} from 'react-router-dom';
+import {Switch , Route, Redirect} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
 import Header from './components/Header/Header';
